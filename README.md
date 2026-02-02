@@ -19,7 +19,7 @@ https://github.com/blizhan/one-day-build/blob/main/.opencode/INSTALL.md
 Or tell your AI:
 
 ```
-Install the one-day-build skill from https://github.com/blizhan/one-day-build
+Install the one-day-build skill from https://github.com/blizhan/one-day-build/blob/main/.opencode/INSTALL.md
 ```
 
 ### Cursor
@@ -33,7 +33,7 @@ https://github.com/blizhan/one-day-build/blob/main/.cursor/INSTALL.md
 Or tell Cursor:
 
 ```
-Install the one-day-build workflow from https://github.com/blizhan/one-day-build
+Install the one-day-build workflow from https://github.com/blizhan/one-day-build/blob/main/.cursor/INSTALL.md
 ```
 
 ---
