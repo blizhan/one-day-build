@@ -22,6 +22,20 @@ Or tell your AI:
 Install the one-day-build skill from https://github.com/blizhan/one-day-build/blob/main/.opencode/INSTALL.md
 ```
 
+### Codex
+
+Fetch and follow instructions from:
+
+```
+https://github.com/blizhan/one-day-build/blob/main/.codex/INSTALL.md
+```
+
+Or tell Codex:
+
+```
+Install the one-day-build skill from https://github.com/blizhan/one-day-build/blob/main/.codex/INSTALL.md
+```
+
 ### Cursor
 
 Fetch and follow instructions from:
